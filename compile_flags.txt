@@ -1,0 +1,4 @@
+-std=c++20
+-IC:Matplot++ 1.2.0\include
+-LC:Matplot++ 1.2.0\lib
+-lmatplot
